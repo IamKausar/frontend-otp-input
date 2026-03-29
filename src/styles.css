@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.digit-input {
+  height: 3rem;
+  width: 3rem;
+  font-size: 2rem;
+  text-align: center;
+  margin: 0.25rem;
+}
